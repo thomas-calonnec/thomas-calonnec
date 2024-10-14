@@ -13,7 +13,7 @@ I am a passionate software developer specializing in **Full stack developer**. W
 
 - **Frontend Development**: Angular, React, TypeScript, HTML5, CSS3, VueJS 3
 - **Backend Development**: Java, Spring Boot, Node.js, RESTful APIs
-- **Database**: MySQL, PostgreSQL, MongoDB
+- **Database**: MySQL, PostgreSQL, MongoDB, Oracle 
 - **DevOps**: Docker, Kubernetes, CI/CD
 - **Tools & Platforms**: Git, GitHub, Postman
 
@@ -22,12 +22,11 @@ I am a passionate software developer specializing in **Full stack developer**. W
 Here are some of the projects I've been working on:
 
 - **[GestPro](https://github.com/thomas-calonnec/gestpro)**: A Trello-like project management tool built with Angular and Spring Boot.
-- **[Projet Routage](https://github.com/yourusername/project-name)**: .
 
 ## Let's Connect
 
 - 📫 Reach me via email at **[thomas.calonnec@protonmail.com]**
-- 💼 Check out my LinkedIn: **[yourname](https://linkedin.com/in/yourname)**
+- 💼 Check out my LinkedIn: **[thomas-calonnec](https://linkedin.com/in/thomas-calonnec)**
 
 <!--
 **thomas-calonnec/thomas-calonnec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
