@@ -4,7 +4,7 @@
 ## About Me
 
 I am a passionate software developer with a **Master's degree in Computer Science (International Track)** specializing in **Full stack developer**. With a strong background in **Javascript, PHP and MySQL** , I enjoy building scalable and maintainable solutions that solve real-world problems.
-I have ha 
+
 
 - 🔭 I’m currently working on **GestPro a Trello-like project management app using Angular and Spring Boot**
 - 🌱 I’m learning **Java Spring Boot and Angular**
